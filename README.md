@@ -1,5 +1,3 @@
-### Hello, World!
-
 ![Hello, Friend.](https://github.com/AiKuroyake/AiKuroyake/blob/main/hello_friend.png "Hello, Friend.")
 
 <!--
