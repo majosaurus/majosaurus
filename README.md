@@ -1,5 +1,6 @@
 ### Hello, World!
 
+![Hello, Friend.](https://github.com/AiKuroyake/AiKuroyake/blob/main/hello_friend.png "Hello, Friend.")
 
 <!--
 **AiKuroyake/AiKuroyake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
