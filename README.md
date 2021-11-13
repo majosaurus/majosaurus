@@ -1,5 +1,11 @@
 ![Hello, Friend.](https://github.com/AiKuroyake/AiKuroyake/blob/main/hello_friend.png "Hello, Friend.")
 
+Hi there. I'm Mája. 
+
+Currently studying Computational Linguistics. I know Python only. And the best distro is Pop!\_OS.
+
+Where is the any key?
+
 <!--
 **AiKuroyake/AiKuroyake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
