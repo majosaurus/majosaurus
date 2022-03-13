@@ -1,8 +1,8 @@
 ![Hello, Friend.](https://github.com/AiKuroyake/AiKuroyake/blob/main/hello_friend.png "Hello, Friend.")
 
-Hi there. I'm Mája. 
+Hi there. My name's Mája.
 
-Currently studying Computational Linguistics. I know Python only. And the best distro is Pop!\_OS.
+I'm currently studying Computational Linguistics. I know Python and started learning C#. I'm also interested in databases. I enjoy using Linux; the best distro is Pop!\_OS.
 
 Where is the any key?
 
