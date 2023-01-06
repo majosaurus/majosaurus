@@ -1,8 +1,10 @@
 ![Hello, Friend.](https://github.com/AiKuroyake/AiKuroyake/blob/main/hello_friend.png "Hello, Friend.")
 
-Hi there. My name's Mája.
+Hi there. I'm Mája.
 
-I'm currently studying Computational Linguistics. I know Python and started learning C#. I'm also interested in databases. I enjoy using Linux; the best distro is Pop!\_OS.
+I'm a Computational Linguistics student and wannabe IT guy. I know Python and started learning C#. I'm also interested in databases. But I'm still more of a linguist so don't expect me to follow in a technical discussions about the best- and quick-working algorithms <3
+
+I have a love relationship with Linux and a hate relationship with Windows but ofc I can't live without any of the systems. I've been loving Pop!\_OS recently.
 
 Where is the any key?
 
