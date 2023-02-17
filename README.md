@@ -4,7 +4,7 @@ Once again: Hello, Friend.
 
 One of my friends like to creatively think of many nicknames they call me. That's how Májosaurus was made. But really I'm Mája. Nice to meet you!
 
-I asked Midjourney to create a picture of me holding a ThinkPad laptop and waving a hand at you. I got an almostmacbook laptop and weird hands with six fingers. Anyway, a great attempt! Also I think it's better to read about someone's info if you got the face as well. So thank Midjourney for the illustration. Although it doesn' look like me at all. And no, I really do not have six fingers if you ask. Neither I own that hoodie but man I wish I would!
+I asked Midjourney to create a picture of me holding a ThinkPad laptop and waving a hand at you. I got an almostmacbook laptop and weird hands with six fingers. Anyway, a great attempt! Also I think it's better to read about someone's info if you got the face as well. So thank Midjourney for the illustration. Although it doesn't look like me at all. And no, I really do not have six fingers if you ask. Neither I own that hoodie but man I wish I would!
 
 *Sorry, I tried to sound funny but when I'm speaking English I'm probably sounding more cringe than funny. Do you speak Czech? Cause in my native language I'm definitely funnier!*
 
@@ -12,7 +12,7 @@ I asked Midjourney to create a picture of me holding a ThinkPad laptop and wavin
 
 *If you want to know something more...*
 
-I'm a Computational Linguistics student (because all of my life I haven't known if I'm more a humanities or an IT gal and this way I can be both at the same time). I know Python which I enjoy the most. I started learning C#, Angular and hopefully later this year also R. I'm also interested in databases, mainly MS SQL because that's what I use.
+I'm a Computational Linguistics student (because all of my life I haven't known if I'm more a humanities or an IT gal and this way I can be both at the same time). I know Python which I enjoy the most. I started learning C#, Angular and hopefully later this year R as well. I'm also interested in databases, mainly MS SQL because that's what I use at work.
 
 I know nothing about algorithmization and optimal solutions. I'm happy when any of my solutions work.
 
